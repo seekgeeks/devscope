@@ -1,0 +1,16 @@
+{
+    "name": "seekgeeks/devscope",
+    "description": "Developer's console for codeigniter based application",
+    "type": "project",
+    "require": {
+        "aws/aws-sdk-php": "^3.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dheeraj jha",
+            "email": "dheeraj@thedijje.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
