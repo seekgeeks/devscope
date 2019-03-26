@@ -3,7 +3,8 @@
     "description": "Developer's console for codeigniter based application",
     "type": "project",
     "require": {
-        "aws/aws-sdk-php": "^3.0@dev"
+        "aws/aws-sdk-php": "^3.0@dev",
+        "phpmailer/phpmailer": "dev-master"
     },
     "license": "MIT",
     "authors": [
